@@ -3,6 +3,9 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+.login{
+    margin-right: 5px;
+}
 a {
     color: #00B7FF;
 }
